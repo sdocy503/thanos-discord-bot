@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\RiskBot - Copy\RiskBot\bin\Debug\netcoreapp2.0\Thanos.deps.json
+C:\Users\User\source\repos\RiskBot - Copy\RiskBot\bin\Debug\netcoreapp2.0\Thanos.runtimeconfig.json
+C:\Users\User\source\repos\RiskBot - Copy\RiskBot\bin\Debug\netcoreapp2.0\Thanos.runtimeconfig.dev.json
+C:\Users\User\source\repos\RiskBot - Copy\RiskBot\bin\Debug\netcoreapp2.0\Thanos.dll
+C:\Users\User\source\repos\RiskBot - Copy\RiskBot\bin\Debug\netcoreapp2.0\Thanos.pdb
+C:\Users\User\source\repos\RiskBot - Copy\RiskBot\obj\Debug\netcoreapp2.0\Thanos.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\RiskBot - Copy\RiskBot\obj\Debug\netcoreapp2.0\Thanos.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RiskBot - Copy\RiskBot\obj\Debug\netcoreapp2.0\Thanos.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RiskBot - Copy\RiskBot\obj\Debug\netcoreapp2.0\Thanos.AssemblyInfo.cs
+C:\Users\User\source\repos\RiskBot - Copy\RiskBot\obj\Debug\netcoreapp2.0\Thanos.dll
+C:\Users\User\source\repos\RiskBot - Copy\RiskBot\obj\Debug\netcoreapp2.0\Thanos.pdb
